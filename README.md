@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DarkKnight911988
-- 👀 I’m interested in AI
+- 👋 Hi, I’m Raj Mohod @DarkKnight911988
+- 👀 I’m interested in AI and work as a Data Scientist
 - 🌱 I’m currently learning Python and Statistics
 - 📫 How to reach me ...
 
